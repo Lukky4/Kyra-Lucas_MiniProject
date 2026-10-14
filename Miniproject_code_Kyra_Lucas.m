@@ -26,5 +26,6 @@ MU_ly = ;       % Bearing friction linear y-direction
 T_b = ;         % Print bed temperature
 d_x = ;         % Print area dimension x
 d_y = ;         % Print area dimension y
+extra_variable =; 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
