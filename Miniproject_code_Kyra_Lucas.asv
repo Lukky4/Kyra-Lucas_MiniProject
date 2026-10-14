@@ -1,0 +1,24 @@
+%Variables%
+Theta_l = ; % Motor angle left
+Theta_r = ; % Motor angle right
+u_ml = ;    % Motor voltage left
+u_mr = ;    % Motor voltage right
+i_ml = ;    % Motor current left
+i_mr = ;    % Motor current right
+r_m = ;     % Motor radius
+L_m = ;     % Motor induction
+R_m = ;     % Motor resistor
+J_m = ;     % Motor inertia
+K_m = ;     % Motor constant
+m_tool = ;  % Tool head mass
+u_n = ;     % Nozzle voltage
+i_n = ;     % Nozzle current
+C_n = ;     % Nozzle capacitor
+C_tn = ;    % Nozzle thermal capacity
+R_tn = ;    % Nozzle thermal resistance
+R_n = ;     % Nozzle resistor
+T_n = ;     % Nozzle temperature
+T_e = ;     % Environmental temperature
+MU_r = ;    % Bearing friction rolling
+MU_lx = ;   % Bearing friction linear x-direction
+MU_ly = ;   % Bearing friction linear y-direction
